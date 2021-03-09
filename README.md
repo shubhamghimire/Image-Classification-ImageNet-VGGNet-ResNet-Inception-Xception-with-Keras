@@ -18,32 +18,32 @@
 # Classified Images
 
 ## VGG16
-![Image](vgg16_test5_output.jpg)
+![Image](output_result_image/vgg16_test5_output.jpg)
 
-![Image](vgg16_test10_output.jpg)
+![Image](output_result_image/vgg16_test10_output.jpg)
 
 
 ## VGG19
-![Image](vgg19_test5_output.jpg)
+![Image](output_result_image/vgg19_test5_output.jpg)
 
-![Image](vgg19_test10_output.jpg)
+![Image](output_result_image/vgg19_test10_output.jpg)
 
 
 ## ResNet
-![Image](resnet_test5_output.jpg)
+![Image](output_result_image/resnet_test5_output.jpg)
 
-![Image](resnet_test10_output.jpg)
+![Image](output_result_image/resnet_test10_output.jpg)
 
 
 ## Inception
-![Image](inception_test5_output.jpg)
+![Image](output_result_image/inception_test5_output.jpg)
 
-![Image](inception_test10_output.jpg)
+![Image](output_result_image/inception_test10_output.jpg)
 
 
 ## Exception
-![Image](exception_test5_output.jpg)
+![Image](output_result_image/exception_test5_output.jpg)
 
-![Image](exception_test10_output.jpg)
+![Image](output_result_image/exception_test10_output.jpg)
 
 

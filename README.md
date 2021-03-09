@@ -42,8 +42,8 @@
 
 
 ## Exception
-![Image](output_result_image/xception_output/exception_test5_output.jpg)
+![Image](output_result_image/xception_output/xception_test5_output.jpg)
 
-![Image](output_result_image/xception_output/exception_test10_output.jpg)
+![Image](output_result_image/xception_output/xception_test10_output.jpg)
 
 

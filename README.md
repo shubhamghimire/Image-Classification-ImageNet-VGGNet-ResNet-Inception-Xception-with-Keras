@@ -41,7 +41,7 @@
 ![Image](output_result_image/inception_output/inception_test10_output.jpg)
 
 
-## Exception
+## Xception
 ![Image](output_result_image/xception_output/xception_test5_output.jpg)
 
 ![Image](output_result_image/xception_output/xception_test10_output.jpg)

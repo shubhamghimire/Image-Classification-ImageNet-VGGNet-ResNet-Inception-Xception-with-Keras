@@ -18,32 +18,32 @@
 # Classified Images
 
 ## VGG16
-![Image](output_result_image/vgg16_test5_output.jpg)
+![Image](output_result_image/vgg16_output/vgg16_test5_output.jpg)
 
-![Image](output_result_image/vgg16_test10_output.jpg)
+![Image](output_result_image/vgg16_output/vgg16_test10_output.jpg)
 
 
 ## VGG19
-![Image](output_result_image/vgg19_test5_output.jpg)
+![Image](output_result_image/vgg19_output/vgg19_test5_output.jpg)
 
-![Image](output_result_image/vgg19_test10_output.jpg)
+![Image](output_result_image/vgg19_output/vgg19_test10_output.jpg)
 
 
 ## ResNet
-![Image](output_result_image/resnet_test5_output.jpg)
+![Image](output_result_image/resnet_output/resnet_test5_output.jpg)
 
-![Image](output_result_image/resnet_test10_output.jpg)
+![Image](output_result_image/resnet_output/resnet_test10_output.jpg)
 
 
 ## Inception
-![Image](output_result_image/inception_test5_output.jpg)
+![Image](output_result_image/inception_output/inception_test5_output.jpg)
 
-![Image](output_result_image/inception_test10_output.jpg)
+![Image](output_result_image/inception_output/inception_test10_output.jpg)
 
 
 ## Exception
-![Image](output_result_image/exception_test5_output.jpg)
+![Image](output_result_image/exception_output/exception_test5_output.jpg)
 
-![Image](output_result_image/exception_test10_output.jpg)
+![Image](output_result_image/exception_output/exception_test10_output.jpg)
 
 
